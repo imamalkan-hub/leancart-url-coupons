@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart URL Coupons\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Coupon %s has been applied."
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Invalid coupon message"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Shown if the coupon is not found."
+msgstr ""
+
+msgid "This coupon code is invalid."
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
